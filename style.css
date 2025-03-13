@@ -1,0 +1,10 @@
+* {
+    background-color: gainsboro;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.homepage,
+.centre {
+    text-align: center;
+}
