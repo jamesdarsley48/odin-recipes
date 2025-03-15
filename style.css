@@ -2,9 +2,21 @@
     background-color: gainsboro;
     color: black;
     font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 .homepage,
 .centre {
     text-align: center;
+}
+
+.homepage {
+    width: 300px;
+    margin: auto;
+}
+
+.homepage h1,
+.homepage p {
+    padding: 5px;
+    border: 2px solid black;
 }
