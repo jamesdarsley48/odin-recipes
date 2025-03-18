@@ -1,22 +1,23 @@
 * {
-    background-color: gainsboro;
+    background-color: white;
     color: black;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
 }
 
-.homepage,
-.centre {
-    text-align: center;
+h1,
+h2 {
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 10px;
+    border-left: 5px solid rgb(255, 0, 0);
 }
 
-.homepage {
-    width: 300px;
-    margin: auto;
-}
-
-.homepage h1,
 .homepage p {
-    padding: 5px;
-    border: 2px solid black;
+    font-size: 30px;
+}
+
+.homepage a {
+    text-decoration: none;
 }
