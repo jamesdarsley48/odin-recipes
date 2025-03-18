@@ -14,6 +14,12 @@ h2 {
     border-left: 5px solid rgb(255, 0, 0);
 }
 
+.homepage,
+.recipe-content {
+    width: 1000px;
+    margin: 0 auto;
+}
+
 .homepage p {
     font-size: 30px;
 }
